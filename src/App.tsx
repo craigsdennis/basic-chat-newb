@@ -213,7 +213,7 @@ function App() {
   return (
     <div className="flex flex-col h-screen w-full mx-auto px-4 sm:px-6">
       <header className="py-4 flex justify-between items-center sticky top-0 bg-white z-10">
-        <h1 className="text-2xl font-bold text-center">👩‍💻💬🗨️🤖</h1>
+        <h1 className="text-2xl font-bold text-center">👩‍💻💬🗨️🤖 - Hi Ricky</h1>
         <div className="w-10">
           <button
             onClick={openModal}
